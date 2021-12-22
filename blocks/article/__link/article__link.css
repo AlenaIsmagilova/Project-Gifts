@@ -1,0 +1,12 @@
+.article__link {
+  font-size: 18px;
+  line-height: 25px;
+  text-decoration: none;
+  color: #ffffff;
+  margin: 0 0 49px;
+  transition: opacity 1s ease;
+}
+
+.article__link:hover {
+  opacity: 0.5;
+}

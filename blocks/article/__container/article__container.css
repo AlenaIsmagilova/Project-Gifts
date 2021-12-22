@@ -1,0 +1,9 @@
+.article__container {
+  width: 770px;
+  height: 370px;
+  padding-left: 78px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #000000;
+}

@@ -1,0 +1,7 @@
+.footer__item {
+  margin-right: 81px;
+}
+
+.footer__item:nth-of-type(2n) {
+  margin-right: 0;
+}

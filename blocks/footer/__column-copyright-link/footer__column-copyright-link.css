@@ -1,0 +1,10 @@
+.footer__column-copyright-link {
+  text-decoration: none;
+  color: #000000;
+  margin: 72px 14px 35px 0;
+  transition: opacity 1s ease;
+}
+
+.footer__column-copyright-link:hover {
+  opacity: 0.5;
+}

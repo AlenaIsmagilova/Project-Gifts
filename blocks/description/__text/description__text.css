@@ -1,0 +1,8 @@
+.description__text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 164px auto 104px;
+  width: 441px;
+  height: 332px;
+}

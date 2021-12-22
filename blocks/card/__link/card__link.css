@@ -1,0 +1,13 @@
+.card__link {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  margin-bottom: 16px;
+  text-decoration: none;
+  color: #000000;
+  transition: opacity 1s ease;
+}
+
+.card__link:hover {
+  opacity: 0.5;
+}

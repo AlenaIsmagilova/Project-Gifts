@@ -1,1 +1,8 @@
-
+.page {
+  width: 1440px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  font-family: "Inter", Arial, sans-serif;
+  margin: auto;
+}

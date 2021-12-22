@@ -1,7 +1,5 @@
-.header {
-  min-height: 116px;
+.preview {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: center;
 }
